@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">As a Computer Science Engineering graduate with hands-on experience working as an Analyst, I bring a blend of Technical expertise and Analytical skills to the table.<br>My journey in the world of technology has equipped me with a deep understanding of complex systems and the ability to navigate through diverse challenges with agility and precision.<br>I have honed my ability to derive meaningful insights and deliver impactful solutions to clients.</h3>
+<h3 align="left">As a Computer Science Engineering graduate with hands-on experience working as an Analyst, I bring a blend of Technical expertise and Analytical skills to the table.<br>My journey in the world of technology has equipped me with a deep understanding of complex systems and the ability to navigate through diverse challenges with agility and precision.<br>I have honed my ability to derive meaningful insights and deliver impactful solutions to clients.</h3>
 
 ###
 
