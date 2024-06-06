@@ -1,8 +1,8 @@
-<h1 align="left">Hi Everyone👋 What's up?</h1>
+<h1 align="left">Hi Everyone👋 I'm Shlok Gupta</h1>
 
 ###
 
-<p align="left">My name is Shlok Gupta and I'm a Full Stack Web Developer from India</p>
+<p align="left">Full Stack Web Developer from India</p>
 
 ###
 
