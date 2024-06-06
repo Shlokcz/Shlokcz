@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Full Stack Web Developer from India</h3>
+<h2 align="left">Full Stack Web Developer from India</h2>
 
 ###
 
